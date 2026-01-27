@@ -14,6 +14,6 @@ I've transitioned my primary identity to better reflect my work in **Neural Netw
 * **Redirection:** Most repository links should redirect automatically, but please update your bookmarks to the new handle!
 
 ---
-> *"The magic isn't in the wand (or the NeuralBreach), it's in the code."* ```
+> *"The magic isn't in the wand (or the NeuralBreach), it's in the code."* 
 
 ---
