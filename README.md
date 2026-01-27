@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🌌 The Aether has Shifted...
 
-<!--
-**CodeGeek2003/CodeGeek2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You've reached my legacy portal. My digital workspace and active projects have migrated to a new coordinate in the grid.
 
-Here are some ideas to get you started:
+### 📍 Current Location
+**[Click here to visit @NeuralBreach](https://github.com/NeuralBreach)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔮 What happened?
+I've transitioned my primary identity to better reflect my work in **Neural Networks**, **Agentic AI**, **Data Science and Analysis**,and **Cybersecurity**. 
+
+* **Active Development:** All my latest projects are now hosted there.
+* **Redirection:** Most repository links should redirect automatically, but please update your bookmarks to the new handle!
+
+---
+> *"The magic isn't in the wand (or the NeuralBreach), it's in the code."* ```
+
+---
